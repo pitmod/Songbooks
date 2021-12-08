@@ -1,0 +1,108 @@
+#
+# This is documentation of how to work with chordbooks
+# External documentation: http://songs.sourceforge.net/songsdoc/songs.html
+#
+
+
+
+To quickly see how to outcome of Tex or sbd file fill be I can use
+https://www.overleaf.com/  (It doesn't work for table of content)
+
+
+#######################
+ADD NEW SONG TO SONGDB
+#######################
+1. Open Atom with project C:\Users\piotr\Documents\Gitara\Songbooks
+
+2. Edit .sbd file i.e songbook.sdb or uwielbienie.sdb and add new songs and save
+file
+
+For example:
+
+\beginsong{Ich lieb Dich Herr}[
+  cr={Public domain.}]
+\beginverse*
+\[D]Ich lieb dich, Herr, \[A]keiner \[D]ist wie du,
+\[G]an\[D]betend\[A] neigt sich mein Herz dir zu.
+\[D]Mein König Gott, \[A]nimm \[D]dies Lied von mir!
+\[D]Lass mich, Herr\[G], \[D]ein Wo\[A]hlklang\[D] sein vor dir!
+\endverse
+
+\beginverse*
+\[D]Ja kocham Cie, \[A]Panie \[D]wznosze głos
+\[G]u\[D]wielbiac \[A]Cic z całej duszy chce.
+\[D]Rozraduj sie dzwie\[A]kiem \[D]modlitw mych,
+\[D]pragne miła\[G]pie\[D]snia \[A]byc w \[D]uszach Twych.
+\endverse
+
+\endsong
+
+
+
+#######################
+CREATE NEW CHORDBOOK
+#######################
+1. Open Atom with project C:\Users\piotr\Documents\Gitara\Songbooks
+
+2. Edit Tex file i.e uwielbienie.tex and save
+
+- If section includeonlysongs exists then comment it our for now. Replace
+\includeonlysongs{1,3}
+
+with
+
+%\includeonlysongs{1,3}
+
+- Edit title
+
+For instance:
+\songsection{Msza z uwielbieniem: 21.11.2021}
+
+- Check if db file is correct
+\input{uwielbienie.sbd}
+
+
+3. Open GitBash and go to
+# cd C:\Users\piotr\Documents\Gitara\Songbooks
+
+
+4. Generate initial file without index
+# pdflatex uwielbienie.tex
+
+5. Generate indexes
+# texlua songidx.lua cbtitle.sxd cbtitle.sbx
+
+6. Once indexes are generated remove previous pdf file and generate file once again
+# pdflatex uwielbienie.tex
+
+7. I should get uwielbienie.pdf file with table of context.
+Open this file and mark down song numbers I want to include in my new chordbook
+
+8. Edit again uwielbienie.tex and this time uncomment:
+\includeonlysongs{1,3}
+
+placing song numbers separated with colons.
+
+8a. If I want to put song in a different key. Edit the sdb file and
+place transpose section like in example:
+
+\beginsong{Ich lieb Dich Herr}[
+  cr={Public domain.}]
+\transpose{2}
+\beginverse*
+\[D]Ich lieb dich, Herr, \[A]keiner \[D]ist wie du,
+\[G]an\[D]betend\[A] neigt sich mein Herz dir zu.
+\[D]Mein König Gott, \[A]nimm \[D]dies Lied von mir!
+\[D]Lass mich, Herr\[G], \[D]ein Wo\[A]hlklang\[D] sein vor dir!
+\endverse
+
+\beginverse*
+\[D]Ja kocham Cie, \[A]Panie \[D]wznosze głos
+\[G]u\[D]wielbiac \[A]Cic z całej duszy chce.
+\[D]Rozraduj sie dzwie\[A]kiem \[D]modlitw mych,
+\[D]pragne miła\[G]pie\[D]snia \[A]byc w \[D]uszach Twych.
+\endverse
+\endsong
+
+
+9. Remove previous pdf files and repeat step 4. New pdf should be generated
