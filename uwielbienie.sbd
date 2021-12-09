@@ -365,7 +365,7 @@ krolow \[d]Krol\[G] i panow \[C]Pan
 \endverse
 
 \beginverse*
-\[e]Komm du Geist, der \[D]Heiligkeit,                                                                                
+\[e]Komm du Geist, der \[D]Heiligkeit,
 \[D]komm du Geist der \[e]Wahrheit.
 \[e]Komm du Geist der \[D]Liebe,
 \[D]wir ersehnen \[e]dich.
@@ -376,5 +376,69 @@ krolow \[d]Krol\[G] i panow \[C]Pan
 \[D]komm du Geist er\[e]fülle uns.
 \[e]Komm du Geist und \[D]schaff uns neu,
 \[D]wir ersehnen \[e]dich.
+\endverse
+\endsong
+
+
+\beginsong{Dir geburt die Ehre \\ Chwale Ciebie Panie}[
+  by={Key: e},
+  sr={Spiewnik PL: 327}]
+
+\beginverse*
+\lrep Dir gebührt die \[G]Ehre  und \[h]Anbetung
+Wir \[C]erheben uns're \[a]Hände
+Wir \[C]erheben Deinen \[D]Namen \rrep \rep{2}
+\endverse
+
+\beginchorus
+\lrep Denn Du bist \[G]groß
+Du tust große Wunder, \[e]groß
+Niemand anders ist wie \[C]Du
+Niemand anders ist wie \[D]Du \rrep \rep{2}
+\endchorus
+
+
+\beginverse*
+\lrep Chwale Ciebie \[G]Panie i \[h]uwielbiam,
+Wznosze w \[C]gore swoje \[a]rece,
+\[C]Uwielbiajac Imie \[D]Twe.\rrep \rep{2}
+\endverse
+
+\beginchorus
+\lrep Bo wielkis \[G]Ty,
+wielkie dziela czynisz \[e]dzis
+Nie dorowna Tobie \[C]nikt
+nie dorowna Tobie \[D]nikt.\rrep \rep{2}
+\endchorus
+\endsong
+
+
+
+
+\beginsong{Otworz me oczy \\ Offne mir die Augen}[
+  by={Key: h},
+  sr={Spiewnik PL: 296}]
+
+\beginverse*
+\[D]Otworz me \[e]oczy\[A]
+chce widziec \[D]Jezusa\[h]
+i byc blizej \[e]Niego\[A]
+i kochac \[D]gorecej\[h].
+Otworz me \[e]uszy\[A]
+i naucz mnie \[D]sluchac\[h]
+otworz me \[e]oczy\[A]
+chce widziec \[G]Jezusa\[D].
+\endverse
+
+
+\beginverse*
+\[D]Öffne mir die \[e]Augen\[A],
+ich will Jesus \[D]sehen\[h],
+mich ausstrecken \[e]zu ihm\[A]
+und sagen: "Ich \[D]lieb dich!"\[h]
+Öffne mir die \[e]Ohren\[A],
+und hilf mir zu \[D]hören\[h].
+Öffne das \[e]Herz mir\[A],
+ich will dir \[G]gehören\[D]!
 \endverse
 \endsong
