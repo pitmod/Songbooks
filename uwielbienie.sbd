@@ -13,7 +13,7 @@ Lass mich, Herr, ein \[G]Wohl\[D]klang \[A]sein vor \[D]dir!
 Ja \[D]kocham Cie, Panie \[A]wznosze \[D]głos
 u\[G]wiel\[D]biac \[A]Cie z całej duszy chce.
 Roz\[D]raduj sie dzwiekiem \[A]modlitw \[D]mych,
-pragne miła\[G]pie\[D]snia \[A]byc w uszach \[D]Twych.
+pragne mila \[G]pie\[D]snia \[A]byc w uszach \[D]Twych.
 \endverse
 \endsong
 
@@ -105,9 +105,10 @@ W Nim \[h]moja \[G]sila, nie \[A]jestem \[D]sam.
    li={Check with Kazik pl wersja}]
 
 \beginverse*
-Hab \[D]Dank von \[A]Herzen Herr.
+\lrep Hab \[D]Dank von \[A]Herzen Herr.
 Hab \[h]Dank, du \[fis]Heiliger.
-Hab \[G]Dank, denn du gabst \[D]Jesus Christus, deinen \[C]Sohn.\[A]
+Hab \[G]Dank, denn du gabst \[D]Jesus Christus, deinen \[C]Sohn.\[A] \rrep \rep{2}
+
 In \[fis]ihm spricht der \[h]Schwache: "Ich bin \[e]stark",
 und der \[A]Arme: "Ich bin \[h]reich",
 denn was er am Kreuz \[C]getan, ist \[A]mein.
@@ -115,9 +116,10 @@ Hab \[D]Dank.
 \endverse
 
 \beginverse*
-Świe\[D]temu Bogu \[A]oddaj czesc,
+\lrep Świe\[D]temu Bogu \[A]oddaj czesc,
 Dziek\[h]czynna z serca \[fis]spiewaj piesn,
-Je\[G]zusa, Syna \[D]swego, Bog darowal \[C]nam.\[A]
+Je\[G]zusa, Syna \[D]swego, Bog darowal \[C]nam.\[A] \rrep \rep{2}
+
 W \[fis]Nim slaby \[h]mocnym staje \[e]sie,
 Biedny niechaj \[A]wyzna, że bogatym \[h]jest,
 \[h]Gdyz wszystko \[C]dal nam \[A]Bog.  ???
@@ -516,7 +518,7 @@ Du hast \[A]Worte ewgen \[D]Lebens.
 
 \beginsong{Magnificat}[
   by={Key: e},
-  sr={Spiewnik PL: -}]
+  sr={Spiewnik PL: 457}]
 
 \beginverse*
 \[G]Magnifi\[C]cat
@@ -525,5 +527,34 @@ Du hast \[A]Worte ewgen \[D]Lebens.
 \[G]Magnifi\[C]cat
 \[D7]Magnifi\[G]cat
 \[G]Magnifi\[C]cat anima \[D7]mea\[G]
+\endverse
+\endsong
+
+
+\beginsong{Dies ist der Tag \\ Oto jest dzien}[
+  by={Key: h},
+  sr={Spiewnik PL: 726}]
+
+\beginverse*
+\[D]Dies ist der Tag \rep{2}
+den der \[A]Herr gemacht \rep{2}
+\[A]Lasset uns freun \rep{2}
+und \[D]fröhlich sein \rep{2}
+\[G]Dies ist der Tag den der \[D]Herr gemacht
+\[G]Lasset uns freun und \[D]fröhlich sein
+\[D]Dies ist der Tag \rep{2}
+Den der \[A]Herr ge\[D]macht
+\endverse
+
+
+\beginverse*
+\[D]Oto jest dzien \rep{2}
+Ktory \[A]dal nam Pan \rep{2} \textnote{Albo: e}
+\[A]Weselmy sie \rep{2}
+I ra\[D]dujmy sie w nim \rep{2}
+\[G]Oto jest dzien, ktory \[D]dal nam Pan!
+\[G]Weselmy sie i ra\[D]dujmy sie w nim.
+\[D]Oto jest dzien \rep{2}
+Ktory \[A]dal nam \[D]Pan! \textnote{Albo e A D }
 \endverse
 \endsong
