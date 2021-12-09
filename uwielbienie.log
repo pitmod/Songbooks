@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.29)  9 DEC 2021 22:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.29)  9 DEC 2021 22:57
 entering extended mode
 **./uwielbienie.tex
 (uwielbienie.tex
@@ -327,16 +327,16 @@ d [2
  (uwielbienie.sxc)
 (uwielbienie.aux)
 Package rerunfilecheck Info: File `uwielbienie.out' has not changed.
-(rerunfilecheck)             Checksum: 1ABD0602D1245FAC2EA9711B8BB2150F;3545.
+(rerunfilecheck)             Checksum: 29EA4918DBBB2C782E93E5FB91DEA94D;3711.
  ) 
 Here is how much of TeX's memory you used:
- 8787 strings out of 478699
- 135955 string characters out of 2846961
- 468248 words of memory out of 3000000
- 26764 multiletter control sequences out of 15000+600000
+ 8789 strings out of 478699
+ 135977 string characters out of 2846961
+ 471248 words of memory out of 3000000
+ 26765 multiletter control sequences out of 15000+600000
  410419 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,6n,63p,278b,573s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,6n,63p,278b,577s stack positions out of 5000i,500n,10000p,200000b,80000s
 <C:/Users/piotr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
 cmbx5.pfb><C:/Users/piotr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
 onts/cm/cmr10.pfb><C:/Users/piotr/AppData/Local/Programs/MiKTeX/fonts/type1/pub
@@ -349,9 +349,9 @@ ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Use
 rs/piotr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi12.p
 fb><C:/Users/piotr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
 /cmsy10.pfb>
-Output written on uwielbienie.pdf (10 pages, 171748 bytes).
+Output written on uwielbienie.pdf (10 pages, 173521 bytes).
 PDF statistics:
- 226 PDF objects out of 1000 (max. 8388607)
- 33 named destinations out of 1000 (max. 500000)
- 177 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 232 PDF objects out of 1000 (max. 8388607)
+ 34 named destinations out of 1000 (max. 500000)
+ 185 words of extra memory for PDF output out of 10000 (max. 10000000)
 
